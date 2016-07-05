@@ -1,0 +1,11 @@
+{
+  "presets": [
+    "es2015"
+  ],
+  "plugins": [
+    "transform-es2015-arrow-functions",
+    "babel-plugin-add-module-exports",
+    "transform-es2015-destructuring",
+    "transform-object-rest-spread"
+  ]
+}
