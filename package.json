@@ -1,6 +1,6 @@
 {
   "name": "simplesqlite",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple Sqlite abstraction for your mobile projects",
   "repository": {
     "type": "git",
