@@ -1,5 +1,9 @@
 # SimpleSqlite
 
+## Requirements
+
+[SQLite storage plugin^1.4.6](https://www.npmjs.com/package/cordova-sqlite-storage)
+
 ## Usage example
 
 ```
