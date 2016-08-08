@@ -22,7 +22,6 @@ var Sqlite = exports.Sqlite = function () {
 
         var defaultConfig = {
             name: 'sqlite',
-            location: 'default',
             androidDatabaseImplementation: 2,
             iosDatabaseLocation: 'default'
         };
